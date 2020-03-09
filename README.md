@@ -1,1 +1,8 @@
-# opencv-motion-detection
+# openCV Motion Detection
+
+### Dependencies
+
+```
+pip3 install --upgrade opencv-python
+pip3 install --upgrade opencv-python-headless
+```
