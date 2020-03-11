@@ -1,5 +1,7 @@
+# Project-specific
+*.mp4
+
 # OS generated files #
-######################
 .DS_Store
 .DS_Store?
 ._*
